@@ -1,0 +1,12 @@
+This Lab we will look into linear and non linear problem Understanding
+
+data.py -- Creation on linear and non linear data
+
+task0.py -- Main function created to visulize linear data
+
+task1.py -- Main function created to visulize non linear data
+
+task2.py -- Generation of XOR data and checking the linear model without transformation 
+            Apply Feature Transformations to polynomial features
+            Apply Linear model on transformed features
+            Check what happens in both of them.
