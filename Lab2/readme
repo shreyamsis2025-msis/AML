@@ -1,0 +1,11 @@
+This Lab we will look into Hard margin and soft margine Understanding
+
+data.py -- Creation on linear and overlapping data
+
+task0.py -- Main function created to visulize linearly seperable data
+
+task1.py -- The function created to visulize Hard Margin on linearly seperable data
+
+task2.py -- This has the function to visualize the over lapping data and applying Hard margin on the overlapping data
+
+task3.py -- This file contains the function to visulize soft margin on over lapping data and also contains change of C values for better visulization.
