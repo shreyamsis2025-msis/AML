@@ -1,0 +1,11 @@
+This Lab we will look into Likelihood
+
+data.py -- Generation coin data.
+
+task1_log_likelihood.py -- MLE estimate of probability of heads.
+
+task2_mle_convergence.py -- MLE Convergence with Increasing Sample Size.
+
+task3_normal_mle_mean.py -- MLE Convergence of Normal distribution.
+
+visual.py -- Contains the plotting functions
